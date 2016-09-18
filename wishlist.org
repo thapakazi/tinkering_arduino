@@ -9,3 +9,7 @@
 *** Wishlist
     - *TankMon*:
       water level detector of a tank
+
+    - *Wishler* #insanity
+      a sitti counter/alerting for a pressure cooker (everyones bad tracking the count)
+
