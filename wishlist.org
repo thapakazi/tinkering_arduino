@@ -1,0 +1,11 @@
+#+TITLE: Project Wishlist
+#+DATE: Sunday, Sep 18 2016
+#+DESCRIPTION: possible future projects
+
+#+SEQ_TODO: NEXT(n) FOREVER(f) TODO(t) DOING(d) SOMEDAY(s) | CANCLED(c) DONE(d) PAUSED(p)
+#+STARTUP: content hidestars
+#+TAGS: URGENT(u) SLACKABIT(s) CANWAIT(c) MUSTDO(m) GARBAGE(g)
+
+*** Wishlist
+    - *TankMon*:
+      water level detector of a tank

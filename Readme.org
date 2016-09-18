@@ -1,0 +1,18 @@
+#+TITLE: Lets have some fun with real hardwares and sensors
+#+DATE: Sunday, Sep 18 2016
+#+DESCRIPTION: dream come true, kudos to my mentors :D
+
+#+SEQ_TODO: NEXT(n) FOREVER(f) TODO(t) DOING(d) SOMEDAY(s) | CANCLED(c) DONE(d) PAUSED(p)
+#+STARTUP: content hidestars
+#+TAGS: URGENT(u) SLACKABIT(s) CANWAIT(c) MUSTDO(m) GARBAGE(g)
+
+* DONE Hello World with Arduino
+  [[./basic_read_write/basic_read_write.ino][Basic IO, rw pins]]
+
+* NEXT Making of TankMon
+  Simple scripts to measure the amount of water left on tank,
+  
+  #+BEGIN_QUOTE
+  Tankie is at top... seems everyones busy to go to top and check the
+  level.
+  #+END_QUOTE
